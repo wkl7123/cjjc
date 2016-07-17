@@ -37,4 +37,5 @@ usage:
 
 ---
 
-![how to us](http://7xrn7f.com1.z0.glb.clouddn.com/16-7-18/50689384.jpg)
+![how to use](http://7xrn7f.com1.z0.glb.clouddn.com/16-7-18/50689384.jpg)
+
