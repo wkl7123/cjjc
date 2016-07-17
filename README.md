@@ -9,6 +9,7 @@ Execute `bash install.sh` to complete the installation
 usage:
 1. translate Chinese to Japanese: `cj Chinese-word`
 2. translate Japanese to Chinese: `jc Japanese-word`
+
 ---
 
 命令行下使用的中译日/日译中辞典
