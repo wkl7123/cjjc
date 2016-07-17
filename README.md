@@ -7,6 +7,7 @@ The search result is base on http://dict.hjenglish.com/jp/
 Execute `bash install.sh` to complete the installation
 
 usage:
+
 1. translate Chinese to Japanese: `cj Chinese-word`
 2. translate Japanese to Chinese: `jc Japanese-word`
 
@@ -19,6 +20,7 @@ usage:
 安装只需要执行`bash install.sh`
 
 使用方法：
+
 1. 中译日: cj 中文词语
 2. 日译中: jc 日文单词
 
