@@ -28,7 +28,7 @@ usage:
 
 ターミナルで中日日辞典
 
-クエリの結果は[サイト](http://dict.hjenglish.com/jp/)に基づいて
+クエリの結果は[滬江サイト](http://dict.hjenglish.com/jp/)に基づいて
 
 インストール：`bash install.sh`
 
