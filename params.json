@@ -1,0 +1,6 @@
+{
+  "name": "Cjjc",
+  "tagline": "Translate Chinese and Japanese in terminal",
+  "body": "# cjjc\r\n\r\ntranslate Chinese and Japanese in terminal\r\n\r\nThe search result is base on http://dict.hjenglish.com/jp/\r\n\r\nExecute `bash install.sh` to complete the installation\r\n\r\nusage:\r\n\r\n1. translate Chinese to Japanese: `cj Chinese-word`\r\n2. translate Japanese to Chinese: `jc Japanese-word`\r\n\r\n---\r\n\r\n命令行下使用的中译日/日译中辞典\r\n\r\n查询结果来源[沪江小D辞典](http://dict.hjenglish.com/jp/)\r\n\r\n安装只需要执行`bash install.sh`\r\n\r\n使用方法：\r\n\r\n1. 中译日: cj 中文词语\r\n2. 日译中: jc 日文单词\r\n\r\n---\r\n\r\nターミナルで中日日辞典\r\n\r\nクエリの結果は[滬江サイト](http://dict.hjenglish.com/jp/)に基づいて\r\n\r\nインストール：`bash install.sh`\r\n\r\n利用：\r\n\r\n1. 中国語を日本語に翻訳する：cj 中国語単語\r\n2. 日本語を中国語に翻訳する：jc 日本語単語\r\n\r\n---\r\n\r\n![how to use](http://7xrn7f.com1.z0.glb.clouddn.com/16-7-18/50689384.jpg)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
